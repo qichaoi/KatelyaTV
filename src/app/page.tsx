@@ -33,6 +33,7 @@ const MainKatelyaLogo = () => {
 
       {/* 主 Logo */}
       <div className='main-katelya-logo'>奇廉TV</div>
+<script defer src="https://kanban.qilian.dpdns.org/tracker.min.js" data-website-id="奇廉tv"></script>
 
       {/* 副标题 */}
       <div className='mt-3 text-center'>
