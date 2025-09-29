@@ -175,7 +175,7 @@ function LoginPageClient() {
               {siteName}
             </span>
           </h1>
-
+<script defer src="https://kanban.qilian.dpdns.org/tracker.min.js" data-website-id="奇廉tv"></script>
           <form onSubmit={handleSubmit} className='space-y-8'>
             {shouldAskUsername && (
               <div>
